@@ -1,5 +1,5 @@
     body {
-        background-image: url("/static/images/back.png");
+        background-image: url("./images/back.png");
     }
     
     .btn-outline-secondary {
