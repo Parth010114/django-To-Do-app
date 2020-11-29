@@ -1,21 +1,24 @@
-body {
-    background-image: url("/static/images/back.png");
-    background-color: aqua;
-}
-
-.btn-outline-secondary {
-    background-color: white;
-    padding: 10px;
-}
-
-.btn {
-    padding: 10px;
-}
-
-.nav-item nav-link {
-    padding: 50px;
-}
-
-.navbar-nav {
-    padding: 20px;
-}
+    body {
+        background-image: url("/static/images/back.png");
+    }
+    
+    .btn-outline-secondary {
+        background-color: white;
+        padding: 10px;
+    }
+    
+    .btn {
+        padding: 10px;
+    }
+    
+    .nav-item nav-link {
+        padding: 50px;
+    }
+    
+    .navbar-nav {
+        padding: 20px;
+    }
+    
+    .card-header {
+        background-color: lightcoral;
+    }
