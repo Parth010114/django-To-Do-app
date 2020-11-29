@@ -1,0 +1,13 @@
+body {
+    background-image: url("/static/back.png");
+    background-color: aqua;
+}
+
+.btn-outline-secondary {
+    background-color: white;
+    padding: 10px;
+}
+
+.btn {
+    padding: 10px;
+}
