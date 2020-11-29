@@ -1,24 +1,38 @@
-    body {
-        background-image: url("./images/back.png");
-    }
-    
-    .btn-outline-secondary {
-        background-color: white;
-        padding: 10px;
-    }
-    
-    .btn {
-        padding: 10px;
-    }
-    
-    .nav-item nav-link {
-        padding: 50px;
-    }
-    
-    .navbar-nav {
-        padding: 20px;
-    }
-    
-    .card-header {
-        background-color: lightcoral;
-    }
+body {
+    background-image: url("./images/back.png");
+}
+
+.btn-outline-secondary {
+    background-color: white;
+    padding: 10px;
+}
+
+.btn {
+    padding: 10px;
+}
+
+.navbar-nav {
+    padding: 5px;
+}
+
+.card-header {
+    background-color: lightcoral;
+}
+
+.text-muted {
+    font-size: 100%;
+    color: white!important;
+}
+
+.btn-outline-info {
+    background-color: white;
+}
+
+.btn-outline-info :hover {
+    background-color: brown;
+    color: black;
+}
+
+a {
+    color: #000;
+}
