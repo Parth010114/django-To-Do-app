@@ -13,7 +13,7 @@ def home(request):
 
 def addTodo(request):
     todo_obj = request.POST['content']
-    print(f'this is aman {todo_obj}')
+    print(f'this is Mihir {todo_obj}')
     if todo_obj != '':
         title = ''
         content = todo_obj
